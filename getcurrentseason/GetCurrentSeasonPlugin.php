@@ -16,7 +16,7 @@ class GetCurrentSeasonPlugin extends BasePlugin
     }
     public function getDocumentationUrl()
     {
-        return 'https://github.com/akagibi/getcurrentseason';
+        return 'https://github.com/akagibi/GetCurrentSeason';
     }
     public function getDeveloperUrl()
     {
