@@ -1,9 +1,15 @@
 # GetCurrentSeason - Plugin for CraftCMS
 
-Return season to date
+Get season to date
 
     {{ craft.GetCurrentSeason.get() }}
     
-Or set a parameter
+Or with a parameter
 
     {{ craft.GetCurrentSeason.get('2015-12-14') }}
+
+Return values :
+* winter
+* spring
+* summer
+* autumn
