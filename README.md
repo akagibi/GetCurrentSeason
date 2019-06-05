@@ -1,4 +1,4 @@
-# GetCurrentSeason - Plugin for CraftCMS
+# GetCurrentSeason - Plugin for CraftCMS 2
 
 Get season to date
 
